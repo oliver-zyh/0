@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: ZOS
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
+author: 张鱼哥
 language: en
 timezone: ''
 
@@ -104,4 +104,3 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
